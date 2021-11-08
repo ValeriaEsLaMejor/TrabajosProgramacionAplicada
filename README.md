@@ -22,4 +22,4 @@ Content in the first column | Content in the second column
   * Agregue una capa de lienzo
 ## Limitaciones
 * Al estar conectado aun dispositivo mediante un tipo de conexión Bluetooth es necesario mantener una distancia corta para que el Dorid BB8 siga funcionando.
-* 
+![Screenshot](F3UBSNKIJUCR6FV.jpg)
