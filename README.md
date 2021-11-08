@@ -18,8 +18,21 @@ La aplicación del teléfono envía caracteres a través de Bluetooth cada vez q
 1. Conecte los cables del motor derecho a M2A y M2B
 1. Monte las baterías de iones de litio
 
-* Agregar modo Bluetooth
+* Agregar modo **Bluetooth**
+
+![Screenshot](F7PE1AKIJIZ8MC8.png)
+
+* Programar el mecanismo robótico
+* Descarga la aplicación del teléfono
+
+  * Cómo usarlo:
+1. Descarga la aplicación desde Play Store / iTunes.
+1. Inicie la aplicación
+1. Abra la ventana de configuración (icono de llave inglesa)
+1. Toque; conectar.
+1. Seleccione HC-05 (El nombre del módulo Bluetooth)
+1. La luz roja debe volverse verde una vez que establezca la comunicación BT. 
 ## Limitaciones
-* Al estar conectado a un dispositivo mediante Bluetooth es necesario mantener una distancia corta para que el Droid BB8 siga funcionando.
+* Al estar conectado a un dispositivo mediante Bluetooth es necesario mantener una distancia corta para que el ***Droid BB8*** siga funcionando.
 ## Referencias
 https://www.instructables.com/DIY-Life-Size-Phone-Controlled-BB8-Droid/ 
